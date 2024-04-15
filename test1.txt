@@ -14,5 +14,3 @@
      
       * config: configuration 배열, 배치, [배열,배치]형태 / 환경설정
 
-3. 제발 PULL 성공해라 제발 ㅠㅠ
-   
